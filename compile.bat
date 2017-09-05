@@ -1,0 +1,1 @@
+devenv TestExecutiveDB.sln /rebuild debug
